@@ -1,1 +1,2 @@
 Record=TopLevelDocument|FileName=iir_loader.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=iir_loader.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=iir_mcu.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=iir_mcu.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
