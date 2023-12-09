@@ -1,2 +1,5 @@
-Record=TopLevelDocument|FileName=iir_loader.SchDoc|SheetNumber=1
-Record=SheetSymbol|SourceDocument=iir_loader.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=iir_mcu.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=iir_mcu.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=[1]Root.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=[1]Root.SchDoc|Designator=U_[2]Micro_USB_B|SchDesignator=U_[2]Micro_USB_B|FileName=[2]Micro_USB_B.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=[2]Micro_USB_B.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=[1]Root.SchDoc|Designator=U_[3]Codec|SchDesignator=U_[3]Codec|FileName=[3]Codec.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=[3]Codec.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=[1]Root.SchDoc|Designator=U_[4]Footswitches|SchDesignator=U_[4]Footswitches|FileName=[4]Footswitches.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=[4]Footswitches.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=[1]Root.SchDoc|Designator=U_[5]Power|SchDesignator=U_[5]Power|FileName=[5]Power.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=[5]Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
