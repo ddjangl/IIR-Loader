@@ -108,7 +108,7 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
-
+    HAL_GPIO_WritePin(CODEC_NRST_GPIO_Port, CODEC_NRST_Pin, GPIO_PIN_SET); // Set codec reset high
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
